@@ -1,0 +1,30 @@
+.bg-primary {
+  background-color: #4caf50 !important;
+}
+
+.navbar-nav {
+  margin: 15px 5px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.navbar-collapse {
+  display: flex !important;
+
+  justify-content: flex-end;
+}
+
+.nav-item {
+  margin-left: 25px;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:focus,
+.nav-link:hover {
+  color: white;
+}
